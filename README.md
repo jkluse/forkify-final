@@ -2,7 +2,7 @@
 
 Recipe application with custom recipe uploads.
 
-This is a student project that demonstrates various JavaScript skills:
+This is my student project that demonstrates various JavaScript skills:
 
 - asyncronous functions that fetch API data from a 3rd party service
 - uses MVC software architecture pattern, so files are grouped into model, view, and controller JS files.
